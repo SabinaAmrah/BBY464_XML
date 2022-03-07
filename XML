@@ -1,0 +1,82 @@
+<CATALOG>
+<Movies>
+<title>Don't Look Up</title>
+<year>2021</year>
+<director>Adam McKay</director>
+<genre>Drama, Comedy, Sci-Fi</genre>
+<stars>Leonardo DiCaprio, Jennifer Lawrence, Meryl Streep</stars>
+<IMDBrating>7.2</IMDBrating>
+</Movies>
+<Movies>
+<title>Spider-Man: No Way Home</title>
+<year>2021</year>
+<director>Jon Watts</director>
+<genre>Action, Adventure, Fantasy</genre>
+<stars>Tom Holland, Zendaya, Benedict Cumberbatch</stars>
+<IMDBrating>8.7</IMDBrating>
+</Movies>
+<Movies>
+<title>Deep Water</title>
+<year>2022</year>
+<director>Adrian Lyne</director>
+<genre>Drama, Thriller</genre>
+<stars>Ben Affleck, Ana de Armas, Tracy Letts</stars>
+<IMDBrating>No rating yet</IMDBrating>
+</Movies>
+<Movies>
+<title>Death on the Nile</title>
+<year>2022</year>
+<director>Kenneth Branagh</director>
+<genre>Crime, Drama, Mystery</genre>
+<stars>Tom Bateman, Annette Bening, Kenneth Branagh</stars>
+<IMDBrating>6.6</IMDBrating>
+</Movies>
+<Movies>
+<title>Uncharted</title>
+<year>2022</year>
+<director>Ruben Fleischer</director>
+<genre>Action, Adventure</genre>
+<stars>Tom Holland, Mark Wahlberg, Antonio Banderas</stars>
+<IMDBrating>6.7</IMDBrating>
+</Movies>
+<Movies>
+<title>The Godfather</title>
+<year>1972</year>
+<director>Francis Ford Coppola</director>
+<genre>Drama, Thriller</genre>
+<stars>Marlon Brando, Al Pacino, James Caan</stars>
+<IMDBrating>9.2</IMDBrating>
+</Movies>
+<Movies>
+<title>Fight Club</title>
+<year>1999</year>
+<director>David Fincher</director>
+<genre>Drama</genre>
+<stars>Brad Pitt, Edward Norton, Meat Loaf</stars>
+<IMDBrating>8.8</IMDBrating>
+</Movies>
+<Movies>
+<title>The Green Mile</title>
+<year>1999</year>
+<director>Frank Darabont</director>
+<genre>Crime, Fantasy, Drama</genre>
+<stars>Tom Hanks, Michael Clarke Duncan, David Morse</stars>
+<IMDBrating>8.6</IMDBrating>
+</Movies>
+<Movies>
+<title>The Pianist</title>
+<year>2002</year>
+<director>Roman Polanski</director>
+<genre>Biography, Drama, Music</genre>
+<stars>Adrien Brody, Thomas Kretschmann, Frank Finlay</stars>
+<IMDBrating>8.6</IMDBrating>
+</Movies>
+<Movies>
+<title>Whiplash</title>
+<year>2014</year>
+<director>Damien Chazelle</director>
+<genre>Drama, Music</genre>
+<stars>Miles Teller, J.K. Simmons, Melissa Benoist</stars>
+<IMDBrating>8.5</IMDBrating>
+</Movies>
+</CATALOG>
